@@ -24,8 +24,11 @@ Simple SPA based on ES2015, React, CSS with a web interface to that backend:
 
 ## Where to find the code?
 
-Please, open the file
+Please, open the most interesting file for backend:
 [src/clj/tpathcache/routes/home.clj](src/clj/tpathcache/routes/home.clj)
+
+And for frontend:
+[react.js](react.js)
 
 There is the most part of the backend.
 
