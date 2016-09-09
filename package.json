@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lein run",
+    "start": "npm run build && lein run",
     "local": "npm run build && lein run",
     "browserify": "browserify -t [ babelify --presets [ es2015 react ] ] react.js -o resources/public/build/bundle.js",
     "watchify": "watchify -v -t [ babelify --presets [ es2015 react ] ] react.js -o resources/public/build/bundle.js",
