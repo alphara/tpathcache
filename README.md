@@ -35,7 +35,9 @@ There is the most part of the backend.
 ## Prerequisites
 
 Generated using Luminus version "2.9.10.96"
-You will need [Leiningen][1] 2.0 or above installed.
+You will need:
+- [Leiningen][1] 2.0 or above installed.
+- npm
 
 [1]: https://github.com/technomancy/leiningen
 
@@ -43,7 +45,13 @@ You will need [Leiningen][1] 2.0 or above installed.
 
 To start a web server for the application, run:
 
+    npm install
+    npm run build
     lein run
+
+Then, open in browswer:
+
+    http://localhost:3000/
 
 ## License
 
