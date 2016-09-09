@@ -123,7 +123,7 @@
     (if (= headers nil)
       (def headers {}))
     (if (= body nil)
-      (def body {:error "data is not ready"}))
+      (def body {:status "Error: data is not ready"}))
 
     (print "headers:") (pprint headers)
     (print "body: ") (pprint body)
