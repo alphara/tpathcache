@@ -47,15 +47,8 @@
     (print "address: ") (println address)
     (def kw-address (keyword address))
 
-
-    ; 4 testing
-    ; (println "")
-    ; (print "BEFORE. mycache: ") (pprint @my-cache)
-    ; (println "")
-
     (if (cache/has? @my-cache kw-address)
-      (do
-        (println "get data from cache"))
+      (println "get data from cache")
       (do
         (println "request data from truckerpath and put it to cache")
 
@@ -73,12 +66,6 @@
 
           (def status (get geo-data :status))
           (print "got status: ") (pprint status)
-
-          ; 4 testing
-          ; (if (get params :status)
-          ;   (do
-          ;     (def status (get params :status))
-          ;     (print "change status on: ") (println status)))
 
           ; 3rd party service might occasionally return 5xx errors or
           ; respond slowly.
@@ -103,18 +90,11 @@
         (wait-for #(= @ready-atom true) :timeout 900) ; running for 900 ms
                                                       ;            < 1 second
         (if (= @ready-atom true)
-          (do
-            (println "data is ready"))
-          (do
-            (println "data is not ready; timeout")))
+          (println "data is ready")
+          (println "data is not ready; timeout"))
 
         (println "[Main] completed waiting for request data")
       ))
-
-    ; 4 testing
-    ; (println "")
-    ; (print "AFTER. mycache: ") (pprint @my-cache)
-    ; (println "")
 
     (def data (cache/lookup @my-cache kw-address))
     (def headers (get data :headers))
@@ -123,7 +103,7 @@
     (if (= headers nil)
       (def headers {}))
     (if (= body nil)
-      (def body {:status "Error: data is not ready"}))
+      (def body {:status "Error: data is still not ready"}))
 
     (print "headers:") (pprint headers)
     (print "body: ") (pprint body)
