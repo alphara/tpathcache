@@ -1,0 +1,10 @@
+2016-09-08 23:59:44,366 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-08 23:59:44,480 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-08 23:59:44,537 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-08 23:59:44,714 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-08 23:59:44,715 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-08 23:59:44,735 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-08 23:59:44,735 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-08 23:59:44,735 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-08 23:59:44,735 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 

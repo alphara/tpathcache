@@ -1,0 +1,680 @@
+2016-09-09 00:01:59,059 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 00:01:59,078 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 00:01:59,079 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 00:01:59,079 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 00:01:59,079 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 00:01:59,079 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 00:02:11,494 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 00:02:11,590 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 00:02:11,629 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 00:02:11,753 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 00:02:11,754 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 00:02:11,772 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 00:02:11,773 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 00:02:11,773 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 00:02:11,773 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 00:05:19,574 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 00:05:19,585 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 00:05:19,586 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 00:05:19,586 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 00:05:19,586 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 00:05:19,586 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 00:05:32,096 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 00:05:32,223 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 00:05:32,271 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 00:05:32,408 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 00:05:32,410 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 00:05:32,430 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 00:05:32,430 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 00:05:32,430 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 00:05:32,430 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 00:06:13,592 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 00:06:13,599 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 00:06:13,600 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 00:06:13,601 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 00:06:13,601 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 00:06:13,601 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 00:06:25,965 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 00:06:26,064 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 00:06:26,107 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 00:06:26,245 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 00:06:26,247 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 00:06:26,267 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 00:06:26,267 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 00:06:26,267 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 00:06:26,268 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 00:09:34,815 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 00:09:34,822 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 00:09:34,823 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 00:09:34,823 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 00:09:34,824 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 00:09:34,824 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 00:09:48,042 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 00:09:48,140 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 00:09:48,173 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 00:09:48,298 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 00:09:48,299 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 00:09:48,318 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 00:09:48,319 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 00:09:48,319 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 00:09:48,320 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 00:20:50,955 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 00:20:50,962 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 00:20:50,962 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 00:20:50,963 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 00:20:50,963 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 00:20:50,963 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 00:21:04,510 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 00:21:04,612 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 00:21:04,653 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 00:21:04,786 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 00:21:04,788 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 00:21:04,806 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 00:21:04,807 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 00:21:04,807 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 00:21:04,807 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 00:23:06,943 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 00:23:06,949 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 00:23:06,949 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 00:23:06,950 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 00:23:06,950 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 00:23:06,950 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 00:23:19,945 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 00:23:20,039 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 00:23:20,072 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 00:23:20,192 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 00:23:20,193 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 00:23:20,212 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 00:23:20,213 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 00:23:20,213 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 00:23:20,213 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 00:54:05,648 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 00:54:05,667 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 00:54:05,667 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 00:54:05,668 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 00:54:05,668 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 00:54:05,669 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 00:54:55,767 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 00:54:55,859 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 00:54:55,890 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 00:54:56,011 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 00:54:56,013 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 00:54:56,031 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 00:54:56,032 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 00:54:56,032 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 00:54:56,032 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 01:55:20,303 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 01:55:20,321 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 01:55:20,321 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 01:55:20,323 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 01:55:20,323 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 01:55:20,323 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 01:57:06,012 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 01:57:06,122 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 01:57:06,163 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 01:57:06,295 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 01:57:06,297 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 01:57:06,319 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 01:57:06,319 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 01:57:06,319 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 01:57:06,319 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 02:11:23,010 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 02:11:23,030 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 02:11:23,031 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 02:11:23,032 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 02:11:23,032 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 02:11:23,032 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 03:48:06,492 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 03:48:06,585 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 03:48:06,620 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 03:48:06,752 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 03:48:06,753 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 03:48:06,774 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 03:48:06,774 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 03:48:06,774 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 03:48:06,774 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 03:50:06,191 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 03:50:06,197 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 03:50:06,198 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 03:50:06,199 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 03:50:06,199 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 03:50:06,199 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 03:50:50,126 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 03:50:50,226 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 03:50:50,264 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 03:50:50,391 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 03:50:50,392 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 03:50:50,412 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 03:50:50,412 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 03:50:50,412 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 03:50:50,412 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 04:08:05,479 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 04:08:05,485 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 04:08:05,486 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 04:08:05,487 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 04:08:05,487 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 04:08:05,487 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 04:08:19,006 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 04:08:19,105 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 04:08:19,136 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 04:08:19,267 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 04:08:19,269 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 04:08:19,289 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 04:08:19,289 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 04:08:19,289 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 04:08:19,289 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 04:09:52,142 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 04:09:52,148 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 04:09:52,149 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 04:09:52,149 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 04:09:52,150 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 04:09:52,150 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 04:14:03,251 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 04:14:03,350 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 04:14:03,385 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 04:14:03,519 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 04:14:03,521 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 04:14:03,540 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 04:14:03,540 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 04:14:03,540 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 04:14:03,541 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 04:44:04,550 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 04:44:04,560 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 04:44:04,562 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 04:44:04,563 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 04:44:04,563 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 04:44:04,563 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 04:44:22,102 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 04:44:22,198 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 04:44:22,229 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 04:44:22,362 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 04:44:22,363 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 04:44:22,382 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 04:44:22,383 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 04:44:22,383 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 04:44:22,383 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 04:52:10,725 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 04:52:10,733 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 04:52:10,735 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 04:52:10,735 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 04:52:10,736 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 04:52:10,736 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 04:52:25,246 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 04:52:25,341 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 04:52:25,374 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 04:52:25,509 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 04:52:25,511 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 04:52:25,533 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 04:52:25,533 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 04:52:25,533 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 04:52:25,533 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 04:53:39,487 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 04:53:39,493 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 04:53:39,494 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 04:53:39,494 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 04:53:39,495 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 04:53:39,495 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 04:53:52,492 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 04:53:52,592 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 04:53:52,634 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 04:53:52,761 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 04:53:52,762 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 04:53:52,787 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 04:53:52,788 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 04:53:52,788 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 04:53:52,788 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 04:54:46,608 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 04:54:46,613 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 04:54:46,614 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 04:54:46,614 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 04:54:46,615 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 04:54:46,615 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 04:54:59,513 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 04:54:59,609 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 04:54:59,644 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 04:54:59,782 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 04:54:59,783 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 04:54:59,803 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 04:54:59,803 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 04:54:59,803 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 04:54:59,803 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 05:11:06,291 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 05:11:06,303 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 05:11:06,304 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 05:11:06,305 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 05:11:06,305 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 05:11:06,305 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 05:11:20,573 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 05:11:20,675 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 05:11:20,710 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 05:11:20,848 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 05:11:20,849 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 05:11:20,872 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 05:11:20,872 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 05:11:20,872 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 05:11:20,872 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:12:13,071 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:12:13,090 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:12:13,091 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:12:13,092 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:12:13,092 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:12:13,092 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:12:26,679 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:12:26,781 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:12:26,812 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:12:26,946 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:12:26,948 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:12:26,967 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:12:26,967 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:12:26,968 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:12:26,968 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:13:47,243 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:13:47,251 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:13:47,252 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:13:47,253 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:13:47,253 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:13:47,253 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:14:01,228 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:14:01,332 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:14:01,364 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:14:01,496 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:14:01,497 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:14:01,519 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:14:01,520 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:14:01,520 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:14:01,520 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:16:34,157 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:16:34,164 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:16:34,165 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:16:34,166 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:16:34,166 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:16:34,166 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:16:47,871 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:16:47,966 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:16:48,002 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:16:48,133 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:16:48,135 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:16:48,155 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:16:48,155 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:16:48,155 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:16:48,155 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:17:11,981 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:17:11,990 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:17:11,990 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:17:11,991 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:17:11,991 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:17:11,991 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:17:25,880 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:17:25,976 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:17:26,013 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:17:26,151 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:17:26,153 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:17:26,172 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:17:26,172 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:17:26,172 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:17:26,172 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:25:27,709 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:25:27,717 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:25:27,717 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:25:27,718 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:25:27,718 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:25:27,718 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:25:41,840 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:25:41,938 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:25:41,971 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:25:42,118 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:25:42,120 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:25:42,146 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:25:42,146 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:25:42,147 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:25:42,147 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:31:40,880 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:31:40,888 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:31:40,889 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:31:40,889 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:31:40,889 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:31:40,889 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:33:02,989 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:33:03,089 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:33:03,125 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:33:03,256 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:33:03,257 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:33:03,276 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:33:03,276 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:33:03,276 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:33:03,276 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:34:12,324 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:34:12,332 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:34:12,333 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:34:12,333 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:34:12,333 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:34:12,334 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:35:39,880 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:35:39,982 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:35:40,012 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:35:40,139 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:35:40,140 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:35:40,159 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:35:40,159 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:35:40,159 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:35:40,159 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:39:31,146 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:39:31,154 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:39:31,155 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:39:31,155 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:39:31,155 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:39:31,156 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:42:26,474 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:42:26,574 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:42:26,607 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:42:26,744 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:42:26,746 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:42:26,765 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:42:26,765 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:42:26,765 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:42:26,765 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:44:19,376 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:44:19,383 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:44:19,383 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:44:19,384 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:44:19,384 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:44:19,384 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:44:32,554 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:44:32,647 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:44:32,688 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:44:32,820 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:44:32,822 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:44:32,844 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:44:32,844 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:44:32,844 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:44:32,844 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:45:19,710 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:45:19,718 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:45:19,719 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:45:19,719 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:45:19,720 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:45:19,720 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:45:32,830 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:45:32,932 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:45:32,966 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:45:33,090 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:45:33,091 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:45:33,111 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:45:33,112 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:45:33,112 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:45:33,112 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:46:49,182 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:46:49,190 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:46:49,190 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:46:49,191 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:46:49,191 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:46:49,191 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:47:03,987 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:47:04,077 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:47:04,109 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:47:04,238 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:47:04,239 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:47:04,263 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:47:04,263 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:47:04,263 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:47:04,263 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:48:53,901 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:48:53,908 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:48:53,909 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:48:53,909 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:48:53,909 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:48:53,909 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:49:07,294 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:49:07,395 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:49:07,429 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:49:07,582 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:49:07,584 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:49:07,612 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:49:07,613 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:49:07,613 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:49:07,613 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:49:48,970 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:49:48,978 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:49:48,979 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:49:48,980 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:49:48,980 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:49:48,980 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:50:02,187 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:50:02,283 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:50:02,320 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:50:02,450 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:50:02,451 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:50:02,470 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:50:02,470 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:50:02,470 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:50:02,470 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:52:08,637 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:52:08,646 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:52:08,647 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:52:08,648 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:52:08,648 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:52:08,648 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:52:22,250 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:52:22,360 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:52:22,393 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:52:22,530 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:52:22,532 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:52:22,552 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:52:22,552 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:52:22,552 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:52:22,552 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 06:52:47,513 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 06:52:47,519 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 06:52:47,520 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 06:52:47,520 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 06:52:47,520 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 06:52:47,520 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 06:53:00,748 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 06:53:00,847 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 06:53:00,880 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 06:53:01,009 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 06:53:01,011 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 06:53:01,029 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 06:53:01,029 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 06:53:01,029 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 06:53:01,029 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 07:02:04,041 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 07:02:04,052 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 07:02:04,053 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 07:02:04,054 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 07:02:04,054 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 07:02:04,054 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 07:02:17,554 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 07:02:17,659 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 07:02:17,692 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 07:02:17,827 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 07:02:17,829 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 07:02:17,850 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 07:02:17,850 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 07:02:17,850 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 07:02:17,850 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 07:03:10,821 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 07:03:10,827 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 07:03:10,828 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 07:03:10,828 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 07:03:10,829 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 07:03:10,829 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 07:03:24,274 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 07:03:24,377 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 07:03:24,410 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 07:03:24,543 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 07:03:24,544 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 07:03:24,563 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 07:03:24,563 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 07:03:24,563 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 07:03:24,563 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 08:05:44,111 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 08:05:44,135 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 08:05:44,136 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 08:05:44,137 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 08:05:44,137 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 08:05:44,137 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 08:10:36,999 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 08:10:37,097 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 08:10:37,127 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 08:10:37,255 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 08:10:37,256 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 08:10:37,276 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 08:10:37,276 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 08:10:37,276 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 08:10:37,276 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 08:13:31,028 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 08:13:31,034 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 08:13:31,035 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 08:13:31,036 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 08:13:31,036 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 08:13:31,036 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 08:13:44,715 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 08:13:44,821 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 08:13:44,854 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 08:13:44,983 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 08:13:44,984 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 08:13:45,004 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 08:13:45,004 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 08:13:45,004 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 08:13:45,005 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 08:15:03,152 [XNIO-1 task-3] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 08:15:03,154 [XNIO-1 task-3] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 08:15:07,205 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 08:15:07,206 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 08:15:56,962 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 08:15:57,065 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 08:15:57,100 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 08:15:57,243 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 08:15:57,244 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 08:15:57,266 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 08:15:57,266 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 08:15:57,266 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 08:15:57,266 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 08:21:43,098 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 08:21:43,121 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 08:21:43,124 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 08:21:43,128 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 08:21:43,128 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 08:21:43,128 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 08:21:57,254 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 08:21:57,354 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 08:21:57,386 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 08:21:57,512 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 08:21:57,514 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 08:21:57,532 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 08:21:57,532 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 08:21:57,532 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 08:21:57,533 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 08:56:34,973 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 08:56:34,980 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 08:56:34,981 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 08:56:34,982 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 08:56:34,982 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 08:56:34,982 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 08:56:49,518 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 08:56:49,613 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 08:56:49,647 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 08:56:49,781 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 08:56:49,782 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 08:56:49,802 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 08:56:49,803 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 08:56:49,803 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 08:56:49,803 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
+2016-09-09 09:04:14,209 [Thread-2] INFO  luminus.repl-server - nREPL server stopped 
+2016-09-09 09:04:14,218 [Thread-2] INFO  luminus.http-server - HTTP server stopped 
+2016-09-09 09:04:14,219 [Thread-2] INFO  tpathcache.env - 
+-=[tpathcache has shut down successfully]=- 
+2016-09-09 09:04:14,219 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/repl-server stopped 
+2016-09-09 09:04:14,220 [Thread-2] INFO  tpathcache.core - #'tpathcache.core/http-server stopped 
+2016-09-09 09:04:14,220 [Thread-2] INFO  tpathcache.core - #'tpathcache.handler/init-app stopped 
+2016-09-09 09:04:26,868 [main] INFO  tpathcache.env - 
+-=[tpathcache started successfully using the development profile]=- 
+2016-09-09 09:04:26,966 [main] INFO  luminus.http-server - starting HTTP server on port 3000 
+2016-09-09 09:04:26,998 [main] INFO  org.xnio - XNIO version 3.3.6.Final 
+2016-09-09 09:04:27,128 [main] INFO  org.projectodd.wunderboss.web.Web - Registered web context / 
+2016-09-09 09:04:27,130 [main] INFO  luminus.repl-server - starting nREPL server on port 7000 
+2016-09-09 09:04:27,149 [main] INFO  tpathcache.core - #'tpathcache.config/env started 
+2016-09-09 09:04:27,150 [main] INFO  tpathcache.core - #'tpathcache.handler/init-app started 
+2016-09-09 09:04:27,150 [main] INFO  tpathcache.core - #'tpathcache.core/http-server started 
+2016-09-09 09:04:27,150 [main] INFO  tpathcache.core - #'tpathcache.core/repl-server started 
