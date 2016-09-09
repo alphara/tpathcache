@@ -20,7 +20,8 @@
     "radium": "^0.18.1",
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
-    "redux": "^3.3.1"
+    "redux": "^3.3.1",
+    "whatwg-fetch": "^1.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.7.2",
