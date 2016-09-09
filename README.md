@@ -12,10 +12,10 @@ Clients awaits the response from the backend for 1 sec at max, and may retry a f
 
 Each request to 3rd party service is very expensive so the backend minimizes number of calls to the bare minimum. At the same time backend does not return data older than 24 hours.
 
-## Where to look to code?
+## Where to find the code?
 
-Look on
-src/clj/tpathcache/routes/home.clj
+Please, open the file
+[src/clj/tpathcache/routes/home.clj](src/clj/tpathcache/routes/home.clj)
 
 There is the most part of the backend.
 
