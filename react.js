@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import {StyleRoot} from 'radium';
 import 'whatwg-fetch';
+import LoadingIndicator from 'react-loading-indicator';
 
 const MainBox = React.createClass({
   getInitialState: function() {
@@ -10,11 +11,15 @@ const MainBox = React.createClass({
       location: '',
       formatedAddress: '',
       status: 'Please, enter some address',
+      loading: false,
     };
   },
   handleChange: function(event) {
     const self = this;
-    this.setState({address: event.target.value});
+    this.setState({
+      address: event.target.value,
+      loading: true,
+    });
     fetch(`/geocode?address="${this.state.address}"`)
       .then(function(response) {
         console.log('response:', response);
@@ -42,11 +47,13 @@ const MainBox = React.createClass({
             status: 'Error: unknown format',
           });
         }
+        self.setState({ loading: false });
       }).catch(function(ex) {
         self.setState({
           location: '',
           formatedAddress: '',
           status: 'Error: Parsing failed',
+          loading: false,
         });
       })
   },
@@ -61,6 +68,9 @@ const MainBox = React.createClass({
             value={this.state.address}
             onChange={this.handleChange}
           />
+          <div style={{display: this.state.loading ? 'block' : 'none'}}>
+            <LoadingIndicator />
+          </div>
           <div>Location (latitude, longitude):</div>
           <div>{this.state.location}</div>
           <div>Formated Address:</div>
