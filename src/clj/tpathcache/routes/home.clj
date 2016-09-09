@@ -27,14 +27,6 @@
          (if (< (System/currentTimeMillis) end-time)
            (recur)))))))
 
-(defn home-page []
-  (layout/render
-    "home.html" {:docs (-> "docs/docs.md" io/resource slurp)}))
-
-(defn about-page []
-  (layout/render "about.html"))
-
-
 ; Using Clojure develop a caching backend for an unstable 3rd party service.
 ; Each request to 3rd party service is very expensive so your backend should
 ; minimize number of calls to the bare minimum. At the same time backend
@@ -42,8 +34,10 @@
 (def my-cache (atom (cache/ttl-cache-factory {} :ttl 86400000)))
 
 (defroutes home-routes
-  (GET "/" [] (home-page))
-  (GET "/about" [] (about-page))
+
+  ; React.js application
+  (GET "/" []
+    (layout/render "index.html"))
 
   ; Your backend should expose one endpoint:
   ; GET /geocode?address="some address"
