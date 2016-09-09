@@ -1,5 +1,7 @@
 # tpathcache
 
+## Backend part
+
 Backend on clojure exposes one endpoint: GET /geocode?address="some address", which returns and caches all successful responses from 3rd party service.
 
 3rd party service might occasionally return 5xx errors or respond slowly.
@@ -11,6 +13,14 @@ Clients awaits the response from the backend for 1 sec at max, and may retry a f
 3rd party service is GET http://geo.truckerpathteam.com/maps/api/geocode/json?address="some address"
 
 Each request to 3rd party service is very expensive so the backend minimizes number of calls to the bare minimum. At the same time backend does not return data older than 24 hours.
+
+## Frontend part
+
+Simple SPA based on ES2015, React, CSS with a web interface to that backend:
+— a text input field with location data printed out beneath it (latitude + longitude values);
+— no "submit" button, a system reacts on input's value;
+— some basic "loading" indicator is shown as soon as query is changed;
+— requests to backend isn't performed more often than 300 ms;
 
 ## Where to find the code?
 
