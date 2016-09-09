@@ -17,10 +17,10 @@ Each request to 3rd party service is very expensive so the backend minimizes num
 ## Frontend part
 
 Simple SPA based on ES2015, React, CSS with a web interface to that backend:
-— a text input field with location data printed out beneath it (latitude + longitude values);
-— no "submit" button, a system reacts on input's value;
-— some basic "loading" indicator is shown as soon as query is changed;
-— requests to backend isn't performed more often than 300 ms;
+* a text input field with location data printed out beneath it (latitude + longitude values);
+* no "submit" button, a system reacts on input's value;
+* some basic "loading" indicator is shown as soon as query is changed;
+* requests to backend isn't performed more often than 300 ms;
 
 ## Where to find the code?
 
@@ -36,8 +36,8 @@ There is the most part of the backend.
 
 Generated using Luminus version "2.9.10.96"
 You will need:
-- [Leiningen][1] 2.0 or above installed.
-- npm
+* [Leiningen][1] 2.0 or above installed.
+* npm - to build react application through webpack
 
 [1]: https://github.com/technomancy/leiningen
 
